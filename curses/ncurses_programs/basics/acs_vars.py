@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# based on the hellow_world.c of the ncurses example code
+# based on the acs_vars.c of the ncurses example code
 
 import curses
 
