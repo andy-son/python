@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# based on the acs_vars.c of the ncurses example code
+# based on the init_func_example.c of the ncurses example code
 
 import curses
 
