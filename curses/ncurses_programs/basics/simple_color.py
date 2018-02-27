@@ -7,7 +7,6 @@ import os
 
 
 def print_in_middle(screen, starty, startx, width, string):
-    length = None
     x = None
     y = None
     temp = None
