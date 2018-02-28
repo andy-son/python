@@ -3,7 +3,6 @@
 # based on the simple_key.c of the ncurses example code
 
 import curses
-import time
 
 WIDTH = 30
 HEIGHT = 10
